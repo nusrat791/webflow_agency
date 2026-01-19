@@ -1,0 +1,37 @@
+.navbar{
+    text-align: center;
+
+    justify-content: space-between;
+}
+.btn{
+    color: white;
+    background-color: blue;
+    border-radius: 8px;
+
+}
+.banner-title{
+    text-align: center;
+    border: none;
+}
+.btn-container {
+  width: 100%;
+}
+
+.center {
+  height: 100vh;          /* full screen height */
+  display: flex;
+  justify-content: center; /* horizontal center */
+  align-items: center;     /* vertical center */
+}
+.sec-seeit{
+  display: flex;
+  width: 600px;
+  height: 500px;
+}
+.joined-user{
+  display: flex;
+  background-color: skyblue;
+  width: 1140px;
+  height: 300px;
+}
+  
