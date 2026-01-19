@@ -36,6 +36,17 @@
 }
 .loved{
   background-color: wheat;
+  padding: auto;
   display: flex;
+  
+ 
+
+}
+.focus-better{
+  display: flex;
+}
+.get-touch{
+  background-color: skyblue;
+  width: 1140px;
 }
   
