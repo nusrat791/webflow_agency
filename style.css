@@ -34,4 +34,8 @@
   width: 1140px;
   height: 300px;
 }
+.loved{
+  background-color: wheat;
+  display: flex;
+}
   
